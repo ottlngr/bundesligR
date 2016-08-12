@@ -1,6 +1,6 @@
 Package: bundesligR
 Type: Package
-Title: All Final Tables of the Bundesliga.
+Title: All Final Tables of the Bundesliga
 Version: 0.1.0
 Author: Philipp Ottolinger
 Maintainer: Philipp Ottolinger <philipp@ottolinger.de>
